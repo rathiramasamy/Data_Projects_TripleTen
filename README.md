@@ -5,7 +5,7 @@ A portfolio of projects I completed through the TripleTen Data Science Bootcamp 
 
 | Project Name                    | Short Description                                                                    | Link to Project                                                 |  Languages/Libraries        |
 |---------------------------------|--------------------------------------------------------------------------------------|-----------------------------------------------------------------|------------------------------|
-| Instacart                       | Analyzing grocery shopping patterns to optimize product placements and marketing strategies.       | [Instacart(https://github.com/rathiramasamy/Data_Projects_TripleTen/tree/main/Instacart)]           | Python, pandas, numpy, matplotlib                |
+| Instacart                       | Analyzing grocery shopping patterns to optimize product placements and marketing strategies.       | [Instacart](https://github.com/rathiramasamy/Data_Projects_TripleTen/tree/main/Instacart)           | Python, pandas, numpy, matplotlib                |
 | Megaline EDA                      | Identifying which of two telecom plans brings in more revenue to maximize advertising budget.     | [Megaline EDA]           | Python, pandas, numpy, matplotlib, seaborn, scipy                |
 | Ice Videogames                      | Market analysis and global sales forecasting of video games to drive advertising strategy.                           | [Videogames]          | Python, pandas, numpy, matplotlib, seaborn, scipy                |
 | Megaline ML                       | Recommending a new cell plan for existing legacy customers.     | [Megaline ML]           | Python, pandas, scikit-learn              |
