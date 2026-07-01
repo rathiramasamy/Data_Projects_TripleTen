@@ -1,0 +1,6 @@
+# Instacart Market Basket Analysis (Instacart.ipynb)
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+jupyter>=1.0
+ipykernel>=6.0
