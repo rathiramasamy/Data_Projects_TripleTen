@@ -1,5 +1,5 @@
 # Data_Projects_TripleTen
-A portfolio of projects I completed through the TripleTen Data Science Bootcamp program, showcasing my skills in data analysis, statistical methods, machine learning, time series analysis, and computer vision. 
+A portfolio of projects I completed through the TripleTen Data Science Bootcamp program, showcasing my skills in data analysis, statistical methods, machine learning and time series analysis. 
 
 <h2 align="left">My Projects</h2>
 
