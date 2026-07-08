@@ -106,4 +106,4 @@ Finally, I tested two hypotheses using **two-sided independent t-tests** (α = 0
 
 Although Ultimate has a higher **average** revenue per user, a large share of Surf customers who exceed package limits—especially on data—generate substantial overage charges. Some Surf users pay more than Ultimate's base price. Combined with Surf's larger customer base and likely higher conversion from a lower advertised price, **increasing Surf marketing** could be profitable if those customers continue to incur overage fees. Further analysis on churn, plan switching, and usage trends beyond 2018 would strengthen this recommendation.
 
-Please see the included Jupyter Notebook (`Megaline.ipynb`) for the full analysis.
+Please see the included Jupyter Notebook (`Megaline EDA.ipynb`) for the full analysis.
