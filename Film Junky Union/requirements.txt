@@ -1,0 +1,12 @@
+# Film Junky Union sentiment classification (Film Junky Union.ipynb)
+pandas>=2.0
+numpy>=1.24
+scikit-learn>=1.3
+matplotlib>=3.7
+seaborn>=0.13
+nltk>=3.8
+spacy>=3.7
+# After install: python -m spacy download en_core_web_sm
+lightgbm>=4.0
+jupyter>=1.0
+ipykernel>=6.0
